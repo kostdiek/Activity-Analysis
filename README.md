@@ -1,6 +1,6 @@
 # Activity-Analysis
 
-There are Mathematica codes here (.nb) which are the ones I used for my analysis. I also started to play around with making a Python code (.py). The Mathematica code is based on the sigma of a fitted Gaussian peak. The background subtraction is done with +/- the sigma value. The Python code finds the max of the peak of interest and the background subtraction is based on +/- 1.5 keV and +/- 3 keV from the max value. 
+There are Mathematica codes here (.nb) which are the ones I used for my analysis. I also started to play around with making a Python code (.py). The Mathematica code is based on the sigma of a fitted Gaussian peak. The background subtraction is done with +/- the sigma value. The Python code finds the max of the peak of interest and the background subtraction is based on +/- 1.5 keV and +/- 3 keV from the max value. I can not guarantee the validity of the Python codes as I just started working on them.
 
 
 PeakInfoCout.nb:
